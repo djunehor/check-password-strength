@@ -140,3 +140,6 @@ I'll be glad if you give this project a ★ on [Github](https://github.com/deani
 ***
 
 Kudos to [@Ennoriel](https://github.com/Ennoriel) and his efforts for making v2 and v3 possible!
+
+
+<!-- Security scan triggered at 2026-08-31 16:50:28 -->
